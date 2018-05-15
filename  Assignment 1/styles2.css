@@ -1,0 +1,64 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+
+.nav_link_wrapper{
+    margin: auto;
+    width: 90%;
+    padding: 2%;
+    background: #3DA2FD
+}
+
+.nav_link{
+    width: 90%;
+    background-color: #3DA2FD;
+    margin: 2%;
+    color: white;
+    display: inline;
+    font-size:30;
+ 
+}
+
+.page_title{
+    font-size: 20px;
+    display: inline;
+    color:white;
+}
+
+.nav_bar{
+
+    padding: .5rem;
+    margin: .5rem;
+    background:#DDDEE0;
+}
+
+.heading-title{
+    color:#0061C5;
+    font-size:24px;
+
+}
+
+.people_reaction{
+    padding: 1;
+    color:white;
+    background: orange;
+}
+
+
+.categories_wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    margin: auto;
+}
+
+.categories_wrapper a{
+    background-color: grey;
+    width: 30%;
+    height: 200px;
+    margin: auto;
+    margin-top: 2%;
+    font-size: 30px
+}

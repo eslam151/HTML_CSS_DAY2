@@ -1,0 +1,20 @@
+.product{
+    position:absolute;
+    top: 0;
+    left: 0;
+}
+.item {
+    position:relative;
+    width:50%;
+}
+
+.deal{
+    position: absolute;
+    width:10%;
+    bottom: 60%;
+    z-index:1;
+}
+    
+.deal:hover{
+  transform: rotate(35deg);
+}
